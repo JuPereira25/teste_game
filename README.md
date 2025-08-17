@@ -1,6 +1,7 @@
 # Cat Platformer - Jogo de Plataforma
 
 Um jogo de plataforma 2D desenvolvido em Python usando Pygame Zero, onde você controla um herói que deve coletar moedas, pular sobre gatos e chegar ao final do nível.
+![Image](https://github.com/user-attachments/assets/b13fc93a-d392-4fbe-9e0c-77b24228f295)
 
 ## 📚 Bibliotecas Externas Utilizadas
 
